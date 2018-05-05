@@ -1,0 +1,20 @@
+* Version 14.4.3 [2018-01-31]
+
+FIXED: 32-bit version of 7-Zip as default
+
+* Version 14.4.2 [2018-01-31]
+
+UPDATED: 7-Zip to 18.01 to address a potential security issue
+UPDATED: Bulgarian, Dutch, Finnish, Hungarian, Polish, Slovak, Slovenian locales
+FIXED: Broken icon display for jdkPortable
+
+* Version 14.4.1 [2017-04-02]
+
+ADDED: Apps may have different names for launchers vs the base app
+UPDATED: Bulgarian, German, Hungarian, and Slovenian locales
+
+* Version 14.4 [2017-03-13]
+
+ADDED: Custom platform security to scan for and mitigate DLL hijacks in: 2048, BabelPad, ClamWin, Foxit, Google Chrome,
+  Kaspersky TDSSKiller, LibreOffice, McAfee Stinger, Opera, Opera Mail, Skype, Thunderbird, and various launchers
+UPDATED: Swedish and Traditional Chinese locales
